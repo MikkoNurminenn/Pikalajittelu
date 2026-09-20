@@ -1,0 +1,17 @@
+work/
+BepInEx/
+dist/
+*.dll
+*.exe
+*.pdb
+*.zip
+*.sha256
+*.log
+*.fch
+*.fwl
+*.db
+*.cfg
+.env
+.env.*
+.DS_Store
+Thumbs.db
