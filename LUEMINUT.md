@@ -2,6 +2,8 @@
 
 **Vähemmän lajittelua. Enemmän seikkailua.**
 
+**[Tarjoa kahvi tekijälle](https://ko-fi.com/ravimies)** — tuki on vapaaehtoista, ja koko modi pysyy ilmaisena kaikille.
+
 Valheimin repun ja lähiarkkujen järjestelymodi. Tämä on esijulkaisu:
 kahden paikallisen peliprosessin katkostestit läpäistiin, mutta eri koneiden
 Steam/crossplay-yhteys ja oikean hiiren/näppäimistön koko toimintaketju ovat

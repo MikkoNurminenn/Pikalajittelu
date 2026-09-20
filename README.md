@@ -9,6 +9,8 @@ every chest. Finnish and English interface.
 **[Download 2.0.1-rc1](https://github.com/MikkoNurminenn/Pikalajittelu/releases/tag/v2.0.1-rc1)** ·
 **[Suomenkielinen ohje](LUEMINUT.md)** · **[Validation and limitations](TESTIT.md)**
 
+**[Buy me a coffee](https://ko-fi.com/ravimies)** — support is optional; the complete mod stays free for everyone.
+
 > **Release candidate, not a verified stable release.** Local multiplayer
 > disconnect tests passed. Real two-machine Steam/crossplay sessions and the full
 > mouse/keyboard input path are still unverified. Start with a test world and
