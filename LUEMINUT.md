@@ -1,10 +1,12 @@
-# Pikalajittelu 2.0.1-rc1
+# Pikalajittelu 2.0.1-rc1 — Beta
 
 **Vähemmän lajittelua. Enemmän seikkailua.**
 
 **[Tarjoa kahvi tekijälle](https://ko-fi.com/ravimies)** — tuki on vapaaehtoista, ja koko modi pysyy ilmaisena kaikille.
 
-Valheimin repun ja lähiarkkujen järjestelymodi. Tämä on esijulkaisu:
+Valheimin repun ja lähiarkkujen järjestelymodi. **Modi on betassa: kehitys ja testaus ovat kesken, eikä tämä ole vakaa julkaisu.**
+
+Nykyinen versio on 2.0.1-rc1. Testauksessa
 kahden paikallisen peliprosessin katkostestit läpäistiin, mutta eri koneiden
 Steam/crossplay-yhteys ja oikean hiiren/näppäimistön koko toimintaketju ovat
 vielä varmentamatta. Tarkemmat tulokset: [TESTIT.md](TESTIT.md).
